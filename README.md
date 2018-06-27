@@ -1,4 +1,2 @@
 # hello-world
-Test first repo
-
-Adding a few changes to readme file 15:51 on 26/06/18
+StaffList has been created and contains details on all employees.
